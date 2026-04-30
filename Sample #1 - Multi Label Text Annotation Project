@@ -1,0 +1,200 @@
+Portfolio Sample #1 — Multi‑Label Text Annotation Project
+1. Project Title
+Customer Support Message Classification — Multi‑Label Annotation Dataset (30 Samples)
+
+2. Project Description
+This project demonstrates professional‑grade multi‑label text annotation across customer support messages.
+Each message is labeled for:
+
+Sentiment
+
+Intent
+
+Topic
+
+Problem Type (if any)
+
+This sample reflects real annotation tasks used in LXT, TELUS AI, Appen, Outlier AI, and DataAnnotation.tech.
+
+3. Label Taxonomy (Used in This Project)
+Sentiment
+Positive
+
+Negative
+
+Neutral
+
+Intent
+Ask for Information
+
+Request Action
+
+Report a Problem
+
+Complaint
+
+Feedback
+
+Other
+
+Topics
+Billing
+
+Technical Issue
+
+Account Management
+
+Product Inquiry
+
+Shipping / Delivery
+
+Subscription
+
+Refunds
+
+General Inquiry
+
+Other
+
+⭐ 4. Annotated Dataset (30 Messages)
+Below is your full 30‑row dataset with multi‑label annotations.
+
+📌 Dataset Table (30 Rows)
+1. “Why was I billed twice this month? I need this fixed immediately.”
+Labels: Billing, Ask for Information, Complaint, Request Action, Negative
+
+2. “The new interface looks amazing. Great job!”
+Labels: Feedback, Positive
+
+3. “My order says ‘delivered’ but I never received anything.”
+Labels: Shipping/Delivery, Complaint, Report a Problem, Negative
+
+4. “Can you tell me if the Pro model supports wireless charging?”
+Labels: Ask for Information, Product Inquiry
+
+5. “I want to change the email linked to my account.”
+Labels: Account Management, Request Action, Neutral
+
+6. “The app keeps crashing whenever I try to open the camera.”
+Labels: Technical Issue, Report a Problem, Complaint, Negative
+
+7. “Your support team helped me yesterday, but the issue came back again.”
+Labels: Feedback, Technical Issue, Report a Problem, Negative
+
+8. “Please cancel my subscription before the next billing cycle.”
+Labels: Subscription, Account Management, Request Action, Neutral
+
+9. “Is there any update on my refund request?”
+Labels: Refunds, Ask for Information, Account Management, Neutral
+
+10. “This is ridiculous. I’ve been waiting for two weeks.”
+Labels: Complaint, Negative
+
+11. “How long does shipping usually take to Canada?”
+Labels: Ask for Information, Shipping/Delivery, General Inquiry
+
+12. “The payment page won’t load at all.”
+Labels: Technical Issue, Report a Problem, Negative
+
+13. “Thanks for resolving my issue so quickly!”
+Labels: Feedback, Positive
+
+14. “I want to upgrade to the annual plan.”
+Labels: Subscription, Request Action, Account Management
+
+15. “Why is my account locked again?”
+Labels: Account Management, Complaint, Ask for Information, Negative
+
+16. “Your product quality has really gone downhill.”
+Labels: Complaint, Negative
+
+17. “Can someone help me track my package?”
+Labels: Shipping/Delivery, Request Action, Ask for Information
+
+18. “The sound cuts out randomly during calls.”
+Labels: Technical Issue, Report a Problem, Complaint, Negative
+
+19. “Do you offer student discounts?”
+Labels: Ask for Information, General Inquiry
+
+20. “I need a copy of my last invoice.”
+Labels: Billing, Request Action, Account Management
+
+21. “Your app is good, but it drains my battery too fast.”
+Labels: Feedback, Technical Issue, Negative
+
+22. “Please reset my password.”
+Labels: Account Management, Request Action, Neutral
+
+23. “I still haven’t received my refund.”
+Labels: Refunds, Complaint, Negative
+
+24. “Is the premium plan worth it?”
+Labels: Ask for Information, Product Inquiry
+
+25. “The website keeps logging me out.”
+Labels: Technical Issue, Report a Problem, Complaint, Negative
+
+26. “Great customer service today!”
+Labels: Feedback, Positive
+
+27. “Why is my card being declined?”
+Labels: Billing, Ask for Information, Report a Problem, Negative
+
+28. “I want to deactivate my account permanently.”
+Labels: Account Management, Request Action, Neutral
+
+29. “My package arrived damaged.”
+Labels: Shipping/Delivery, Complaint, Report a Problem, Negative
+
+30. “Can you explain the difference between the Basic and Pro plans?”
+Labels: Ask for Information, Product Inquiry
+
+⭐ 5. Summary of Insights
+Most Common Topics
+Technical Issues
+
+Account Management
+
+Billing
+
+Shipping/Delivery
+
+Most Common Intents
+Ask for Information
+
+Request Action
+
+Complaint
+
+Sentiment Distribution
+Negative: High (customer support context)
+
+Neutral: Moderate
+
+Positive: Low but present (feedback messages)
+
+Patterns Observed
+Technical issues often co‑occur with complaints
+
+Billing issues frequently include both “Ask for Information” and “Request Action”
+
+Shipping problems almost always include negative sentiment
+
+⭐ 6. Skills Demonstrated in This Project
+Multi‑label classification
+
+Topic tagging
+
+Sentiment analysis
+
+Intent detection
+
+Ambiguous case handling
+
+Consistency across a large dataset
+
+Real‑world annotation workflow
+
+Portfolio‑ready documentation
+
