@@ -1,0 +1,133 @@
+Professional samples demonstrating bounding boxes, object detection, image classification, and scene labeling.
+
+🟦 1. Bounding Boxes (Simulated Marketplace Scene)
+Image Description:  
+A busy outdoor marketplace with a fruit stand, vendor, two customers, bicycle, dog, delivery truck, and a “Fresh Market” signboard.
+
+Bounding Boxes (Simulated Coordinates):
+
+Fruit Stand
+Coordinates: (5,5) → (25,25)
+
+Notes: Tight box around fruit stand on left side
+
+Vendor
+Coordinates: (5,30) → (25,55)
+
+Notes: Standing behind fruit stand
+
+Customer 1
+Coordinates: (30,32) → (34,36)
+
+Notes: Facing vendor
+
+Customer 2
+Coordinates: (30,40) → (34,44)
+
+Notes: Standing beside Customer 1
+
+Bicycle
+Coordinates: (5,70) → (20,75)
+
+Notes: Parked near lamp post
+
+Dog
+Coordinates: (35,46) → (40,50)
+
+Notes: Sitting next to Customer 2
+
+Delivery Truck
+Coordinates: (45,60) → (85,120)
+
+Notes: Parked in background
+
+Signboard (“Fresh Market”)
+Coordinates: (125,30) → (145,50)
+
+Notes: Mounted on right side
+
+🟩 2. Object Detection
+Fruit Stand
+Count: 1
+
+Notes: Selling bananas, apples, oranges
+
+Vendor
+Count: 1
+
+Notes: Behind fruit stand
+
+Customers
+Count: 2
+
+Notes: Standing in front of vendor
+
+Bicycle
+Count: 1
+
+Notes: Parked near lamp post
+
+Dog
+Count: 1
+
+Notes: Sitting beside Customer 2
+
+Delivery Truck
+Count: 1
+
+Notes: Parked in background
+
+Signboard
+Count: 1
+
+Notes: “Fresh Market” sign
+
+🟨 3. Image Classification
+Label:
+
+Marketplace Scene
+🟧 4. Scene Labeling
+Scene Labels:
+
+Vendor selling produce
+
+Customers shopping
+
+Outdoor walkway
+
+Daytime lighting
+
+Street stalls
+
+Delivery truck and bicycle parked
+
+“Fresh Market” signboard
+
+📝 Portfolio Summary
+This repository demonstrates my ability to perform:
+
+Bounding box annotation
+
+Object detection
+
+Image classification
+
+Scene labeling
+
+Spatial reasoning in complex scenes
+
+Professional annotation formatting
+
+These samples reflect the skills required for computer vision tasks on:
+
+TELUS AI
+
+LXT
+
+Appen
+
+Scale AI
+
+Remotasks
+
+DataAnnotation.tech
