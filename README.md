@@ -1,169 +1,174 @@
-Multi‑Label Text Annotation Project (30‑Message Dataset)
-A professionally annotated dataset demonstrating real‑world customer support message classification using multi‑label taxonomy, sentiment analysis, intent detection, and topic tagging.
+About This Repository
+This repository showcases my end‑to‑end skills in data annotation, including:
 
-📌 Project Overview
-This project showcases a complete multi‑label text annotation workflow similar to tasks used in:
+Multi‑Label Text Annotation
+
+Image Annotation (Bounding Boxes, Object Detection, Classification, Scene Labeling)
+
+Dataset‑ready formatting
+
+Spatial reasoning in complex scenes
+
+Professional annotation documentation
+
+These samples reflect the standards used in real AI training projects for:
 
 TELUS International AI
 
-LXT AI
+LXT
 
 Appen
 
-Outlier AI
+Scale AI
+
+Remotasks
 
 DataAnnotation.tech
 
-The dataset contains 30 customer support messages, each annotated with:
+📂 Projects Included
+Below is the master index of all annotation projects included in this portfolio.
 
-Sentiment
+1️⃣ Multi‑Label Text Annotation Project
+Folder: /text_annotation/
 
-Intent
+This project demonstrates:
 
-Topic(s)
+Multi‑label classification
 
-Problem Type (if applicable)
+Label taxonomy creation
 
-This sample demonstrates the ability to analyze ambiguous, multi‑dimensional messages and apply consistent labeling across a large dataset — a core requirement for professional data annotation roles.
+Text interpretation and categorization
 
-🧩 Label Taxonomy
-Sentiment
-Positive
+Dataset‑ready annotation format
 
-Negative
+Contents:
 
-Neutral
+sample1_multilabel_project.md
 
-Intent
-Ask for Information
+(Optional) dataset.csv
 
-Request Action
+2️⃣ Image Annotation Portfolio — Day 4 (Computer Vision)
+Folder: /image_annotation/
 
-Report a Problem
+This project demonstrates:
 
-Complaint
+Bounding Boxes
 
-Feedback
+Object Detection
 
-Other
+Image Classification
 
-Topics
-Billing
+Scene Labeling
 
-Technical Issue
+Spatial reasoning in complex scenes
 
-Account Management
+Contents:
 
-Product Inquiry
+bounding_boxes.md
 
-Shipping / Delivery
+object_detection.md
 
-Subscription
+classification.md
 
-Refunds
+scene_labels.md
 
-General Inquiry
-
-Other
-
-📊 Dataset Summary (30 Annotated Messages)
-The dataset includes a diverse range of customer support scenarios:
-
-Billing disputes
-
-Technical malfunctions
-
-Account changes
-
-Shipping delays
-
-Refund requests
-
-Product feature questions
-
-Mixed or ambiguous sentiment
-
-Positive and negative feedback
-
-Each message is annotated with multiple labels, reflecting real‑world complexity.
-
-📄 Annotated Dataset
-The full 30‑message dataset with labels is included in the repository.
-Each entry follows this structure:
-
-Code
-Message: "Example text here."
-Labels: Topic(s), Intent(s), Sentiment
-This format mirrors professional annotation guidelines used in industry projects.
-
-🔍 Insights & Patterns
-Most Frequent Topics
-Technical Issues
-
-Account Management
-
-Billing
-
-Shipping / Delivery
-
-Common Intents
-Ask for Information
-
-Request Action
-
-Complaint
-
-Sentiment Distribution
-Negative: High (typical for support messages)
-
-Neutral: Moderate
-
-Positive: Present (feedback and appreciation)
-
-Observed Patterns
-Technical issues often co‑occur with complaints
-
-Billing issues frequently include both “Ask for Information” and “Request Action”
-
-Shipping problems almost always express negative sentiment
-
-Mixed messages often contain both positive feedback and a problem report
-
-🛠️ Skills Demonstrated
-Multi‑label text classification
-
-Sentiment analysis
-
-Intent detection
-
-Topic tagging
-
-Ambiguous case handling
-
-Consistency across a large dataset
-
-Real‑world annotation workflow
-
-Portfolio‑ready documentation
-
-This project demonstrates the ability to follow structured guidelines, maintain accuracy, and annotate at a level expected by professional AI training companies.
+certificate.md
 
 📁 Repository Structure
 Code
-📦 multi-label-text-annotation
- ┣ 📄 dataset_30_messages.txt
- ┣ 📄 annotations.csv / json (optional)
- ┣ 📄 README.md
-🚀 Purpose of This Project
-This portfolio sample is designed to:
+Data-Annotation-Portfolio/
+│
+├── README.md
+│
+├── text_annotation/
+│   ├── sample1_multilabel_project.md
+│   └── dataset.csv (optional)
+│
+├── image_annotation/
+│   ├── bounding_boxes.md
+│   ├── object_detection.md
+│   ├── classification.md
+│   ├── scene_labels.md
+│   └── certificate.md
+│
+├── summaries/
+│   ├── portfolio_summary.md
+│   └── day4_exam_results.md
+│
+└── assets/
+    ├── banner.txt
+    └── diagrams/
+🧩 Skills Demonstrated
+✔ Text Annotation
+Multi‑label classification
 
-Demonstrate annotation expertise to employers
+Label taxonomy creation
 
-Showcase real‑world, production‑style labeling
+Dataset structuring
 
-Strengthen applications for remote AI training and data annotation roles
+✔ Image Annotation
+Bounding box creation
 
-Provide a high‑quality example for GitHub, Upwork, Fiverr, and job submissions
+Object detection
+
+Scene‑level labeling
+
+Image classification
+
+Annotation consistency
+
+✔ Professional Documentation
+Clean Markdown formatting
+
+Project organization
+
+Portfolio‑ready presentation
+
+📜 Day 4 Certificate‑Style Summary
+Code
+============================================================
+                 CERTIFICATE OF COMPLETION
+============================================================
+
+This is to certify that **Liaquat Ali Afridi** has successfully
+completed the **Day 4 — Image Annotation Portfolio Module**,
+demonstrating professional‑level skills in:
+
+✔ Bounding Boxes  
+✔ Object Detection  
+✔ Image Classification  
+✔ Scene Labeling  
+✔ Spatial Reasoning in Complex Scenes  
+✔ Computer Vision Annotation Standards  
+
+------------------------------------------------------------
+                 PERFORMANCE EVALUATION
+------------------------------------------------------------
+
+• Bounding Boxes:               9.5 / 10  
+• Object Detection:             9.5 / 10  
+• Image Classification:         10 / 10  
+• Scene Labeling:               9.5 / 10  
+
+**Final Score:** 38.5 / 40 (96%)  
+**Result:** PASSED WITH EXCELLENCE  
+
+============================================================
+🚀 Future Additions
+This repository will continue to grow with:
+
+Day 5 — Video Annotation & Object Tracking
+
+Day 6 — DQR, Safety, Intent, Sentiment
+
+Day 7 — Final Portfolio Assembly
+
+Real‑world annotation samples
+
+Additional datasets and case studies
 
 🤝 Contact
+Liaquat Ali Afridi  
+Data Annotation & AI Training Specialist
+Mississauga, Ontario, Canada
 If you’d like to collaborate on annotation projects or explore more datasets, feel free to connect.
