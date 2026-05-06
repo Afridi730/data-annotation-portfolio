@@ -1,3 +1,6 @@
+# 🌐 Data Annotation Portfolio  
+#### Multi‑Label Text Annotation • Image Annotation • CV Tasks • AI Training Projects
+
 About This Repository
 This repository showcases my end‑to‑end skills in data annotation, including:
 
@@ -24,6 +27,44 @@ Scale AI
 Remotasks
 
 DataAnnotation.tech
+## 🧭 How to Navigate This Portfolio
+
+This repository is organized into clear project folders so you can easily explore my work:
+
+- **text_annotation/**  
+  Contains my Multi‑Label Text Annotation Project, including taxonomy, labels, and dataset‑ready samples.
+
+- **image_annotation/**  
+  Contains my complete Image Annotation Portfolio (Day 4), including:
+  - Bounding Boxes
+  - Object Detection
+  - Image Classification
+  - Scene Labeling
+  - Certificate‑style summary
+
+- **summaries/**  
+  Contains performance summaries, exam results, and portfolio overviews.
+
+- **assets/**  
+  Contains banners, diagrams, and supporting files.
+
+Use the navigation links above to jump directly to any project.
+
+## 🔗 Quick Navigation
+
+### 📝 Text Annotation
+- [Multi‑Label Text Annotation Project](text_annotation/sample1_multilabel_project.md)
+
+### 🖼️ Image Annotation (Day 4)
+- [Bounding Boxes](image_annotation/bounding_boxes.md)
+- [Object Detection](image_annotation/object_detection.md)
+- [Image Classification](image_annotation/classification.md)
+- [Scene Labeling](image_annotation/scene_labels.md)
+- [Certificate Summary](image_annotation/certificate.md)
+
+### 📄 Summaries
+- [Portfolio Summary](summaries/portfolio_summary.md)
+- [Day 4 Exam Results](summaries/day4_exam_results.md)
 
 📂 Projects Included
 Below is the master index of all annotation projects included in this portfolio.
